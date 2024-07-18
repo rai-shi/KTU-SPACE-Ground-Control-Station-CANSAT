@@ -1,0 +1,1 @@
+gcs-exe/KTU_SPACE_Ground_Control_Station_Data/resources.assets filter=lfs diff=lfs merge=lfs -text
