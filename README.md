@@ -9,14 +9,15 @@ The project visualizes the data received every second from an Xbee module. the t
 - Visualize the datas as a graph, map, and position simulation in at least 2d dimension in real time, (here I did it with a 3d model)
 - save telemetry data as a CSV file
 - send spesific command to cansat
+ <br />
 All the task is realized in this project. Project developed with Unity.
-<br />
+<br /><br />
 [Here](https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/tree/main/cansat-arduino/) you can find the Arduino code for generating data for testing the project. I would also like to point out that Arduino can't perform reading and writing at the same time. So, when the simulation mode is started in the app, the telemetry reading task will stop, and therefore, the visualization will also stop. After Arduino finishes reading all the data, telemetry transmission will continue.
-<br />
+<br /><br />
 [Here](https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/tree/main/model-sattelite-3d/), cansat 3d object as a package so you can add your project too. And also the project file if you want to develop the cansat 3d object.
-<br />
+<br /><br />
 And [here](https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/tree/main/gcs-exe) the exe file of the ground station. Make sure that the Flight_2102.csv file is present in this path: gcs-exe/KTU_SPACE_Ground_Control_Station_Data/CSVFile.
-
+<br /><br />
 Finally you can find the source code of the ground station in [here](https://github.com/rai-shi/KTU_SPACE_Ground_Control_Station)
 
 Let's explain the interface.
@@ -92,3 +93,7 @@ Here the ground station interface
   - Click to switch to the telemetry tab, where a data table will appear.
 ### Instant Telemetry
   - Real-time instant telemetry data is displayed at the bottom of the interface.
+
+<br /><br />
+For any inquiries or feedback, please contact: aysenurtak1@gmail.com
+
