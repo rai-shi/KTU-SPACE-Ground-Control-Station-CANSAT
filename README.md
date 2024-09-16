@@ -37,10 +37,12 @@ Example Data
 Here the ground station interface
 
 <div>
-  <img src="https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/blob/main/ui.png?raw=true" alt="dark theme-1" width="300" style="display: inline-block; margin-right: 10px;">
-  <img src="https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/blob/main/ui.png?raw=true" alt="dark theme-2" style="display: inline-block; margin-right: 10px;">
-  <img src="https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/blob/main/ui3.png?raw=true" alt="light theme" width="300" style="display: inline-block;">
+  <img src="https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/blob/main/ui.png?raw=true" alt="dark theme-1" width="400" style="display: inline-block; margin-right: 10px;">
+  <img src="https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/blob/main/ui.png?raw=true" alt="dark theme-2" width="400"style="display: inline-block; margin-right: 10px;">
+  <img src="https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/blob/main/ui3.png?raw=true" alt="light theme" width="400" style="display: inline-block;">
 </div>
+
+
 ## Ground Station Application Overview
 ### Top Section
 - **Mode Display**: 
