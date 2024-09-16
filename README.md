@@ -11,9 +11,9 @@ The project visualizes the data received every second from an Xbee module. the t
 - send spesific command to cansat
 All the task is realized in this project. Project developed with Unity.
 <br />
-[Here](https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/tree/main/cansat-arduino) you can find the Arduino code for generating data for testing the project. I would also like to point out that Arduino can't perform reading and writing at the same time. So, when the simulation mode is started in the app, the telemetry reading task will stop, and therefore, the visualization will also stop. After Arduino finishes reading all the data, telemetry transmission will continue.
+[Here](https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/tree/main/cansat-arduino/) you can find the Arduino code for generating data for testing the project. I would also like to point out that Arduino can't perform reading and writing at the same time. So, when the simulation mode is started in the app, the telemetry reading task will stop, and therefore, the visualization will also stop. After Arduino finishes reading all the data, telemetry transmission will continue.
 <br />
-[Here](https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/tree/main/model-sattelite-3d), cansat 3d object as a package so you can add your project too. And also the project file if you want to develop the cansat 3d object.
+[Here](https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/tree/main/model-sattelite-3d/), cansat 3d object as a package so you can add your project too. And also the project file if you want to develop the cansat 3d object.
 <br />
 And [here](https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/tree/main/gcs-exe) the exe file of the ground station. Make sure that the Flight_2102.csv file is present in this path: gcs-exe/KTU_SPACE_Ground_Control_Station_Data/CSVFile.
 
