@@ -42,11 +42,11 @@ Here the ground station interface
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/blob/main/ui.png?raw=true" width="800" alt="UI Image 1" width="300">
-      <img src="https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/blob/main/ui2.png?raw=true" width="800"" alt="UI Image 2" width="300">
+      <img src="https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/blob/main/ui.png?raw=true" width="500" alt="UI Image 1" width="300">
+      <img src="https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/blob/main/ui2.png?raw=true" width="500" alt="UI Image 2" width="300">
     </td>
     <td>
-      <img src="https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/blob/main/ui3.png?raw=true" width="800" " alt="UI Image 3" width="300">
+      <img src="https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/blob/main/ui3.png?raw=true" width="500" alt="UI Image 3" width="300">
     </td>
   </tr>
 </table>
