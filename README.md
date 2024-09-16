@@ -37,25 +37,20 @@ Example Data
 Here the ground station interface
 
 <div>
-  <img src="https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/blob/main/ui.png?raw=true" alt="dark theme-1" width="400" style="display: inline-block; margin-right: 10px;">
-  <img src="https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/blob/main/ui.png?raw=true" alt="dark theme-2" width="400"style="display: inline-block; margin-right: 10px;">
-  <img src="https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/blob/main/ui3.png?raw=true" alt="light theme" width="400" style="display: inline-block;">
+  <img src="https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/blob/main/ui.png?raw=true" alt="dark theme-1" width="300" style="display: inline-block; margin-right: 10px;">
+  <img src="https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/blob/main/ui.png?raw=true" alt="dark theme-2" width="300"style="display: inline-block; margin-right: 10px;">
+  <img src="https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/blob/main/ui3.png?raw=true" alt="light theme" width="300" style="display: inline-block;">
 </div>
 
 
 ## Ground Station Application Overview
 ### Top Section
-- **Mode Display**: 
-  - Displays the current mode of the system.
-- **Logo (Theme Toggle)**: 
-  - Functions as a button to switch between light and dark themes.
-  - Click the logo to toggle between modes.
+- **Mode Display**: Displays the current mode of the system.
+- **Logo (Theme Toggle)**: Functions as a button to switch between light and dark themes. Click the logo to toggle between modes.
 
 ### Top Section
-- **Data Display (Top Left)**:
-- Some telemetry data is printed in this section.
-- **Mode Status**:
-  - Displays the current state of the CanSat.
+- **Data Display (Top Left)**: Some telemetry data is printed in this section.
+- **Mode Status**: Displays the current state of the CanSat.
 - **Commands Area**
 - **CanSat Simulation Mode Section**:
   - Enable: Sends the "enable mode" command to CanSat.
@@ -73,12 +68,9 @@ Here the ground station interface
   - Clear UI: Clears all data visualizations from the UI.
 
 ### Plot Tab
-- **CanSat 3D Position**: 
-  - A 3D object simulates the CanSat’s position in the air.
-- **Map**: 
-  - Displays the real-time location of the CanSat.
-- **Data Plots**: 
-  - Graphs for various telemetry data.
+- **CanSat 3D Position**: A 3D object simulates the CanSat’s position in the air.
+- **Map**: Displays the real-time location of the CanSat.
+- **Data Plots**: Graphs for various telemetry data.
 ### Telemetry Tab
   - Located in the top-right corner.
   - Click to switch to the telemetry tab, where a data table will appear.
