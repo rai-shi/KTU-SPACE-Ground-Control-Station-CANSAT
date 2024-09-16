@@ -1,5 +1,7 @@
 # KTU-SPACE-Ground-Control-Station-CANSAT
 
+<img src="https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/blob/main/ui.gif?raw=true">
+
 The CanSat competition offers students an opportunity to work in an interdisciplinary manner. In this competition, a satellite prototype is designed and developed. The tasks are similar to those performed by a real satellite when deployed into a planetary atmosphere. It collects and processes data from its environment and its own system, then sends this data to the ground station. The ground station is responsible for visualizing this data and analyzing the status of both the environment and the satellite system. Additionally, the ground station will establish communication with the satellite and send commands to it. You can learn more about the competition [here](https://www.cansatcompetition.com/).
 
 This repository is dedicated to the ground station application for the KTU SPACE team for the America CanSat 2024 competition.
@@ -21,8 +23,6 @@ All tasks are realized in this project, which is developed with Unity.
 - The source code of the ground station is available on [GitHub](https://github.com/rai-shi/KTU_SPACE-Ground-Control-Station).
 
 ## Ground Station Application Overview
-
-### Interface
 
 The program expects data from the serial port in the following format:
 ```bash
