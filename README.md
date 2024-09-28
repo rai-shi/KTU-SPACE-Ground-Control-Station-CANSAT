@@ -38,7 +38,7 @@ Here the ground station interface
 
 <div>
   <img src="https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/blob/main/ui.png?raw=true" alt="dark theme-1" width="300" style="display: inline-block; margin-right: 10px;">
-  <img src="https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/blob/main/ui.png?raw=true" alt="dark theme-2" width="300"style="display: inline-block; margin-right: 10px;">
+  <img src="https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/blob/main/ui2.png?raw=true" alt="dark theme-2" width="300"style="display: inline-block; margin-right: 10px;">
   <img src="https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/blob/main/ui3.png?raw=true" alt="light theme" width="300" style="display: inline-block;">
 </div>
 
