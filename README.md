@@ -16,11 +16,11 @@ All tasks are realized in this project, which is developed with Unity.
 
 - The [Arduino code](https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/tree/main/cansat-arduino/) for generating data for testing the project can be found here. Note that Arduino cannot perform reading and writing simultaneously. Therefore, when the simulation mode is started in the app, the telemetry reading task will stop, and visualization will also stop until Arduino finishes reading all the data, after which telemetry transmission will continue.
 
-- The [CanSat 3D model](https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/tree/main/model-sattelite-3d/) package is available here, which you can add to your project. This includes the project file if you wish to develop the CanSat 3D object further.
+- The [CanSat 3D model](https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/tree/main/model-sattelite-3d/) package is available here, which you can add to your project. 
 
-- The [executable file](https://github.com/rai-shi/KTU-SPACE-Ground-Control-Station-CANSAT/tree/main/gcs-exe) of the ground station can be found here. Ensure that the `Flight_2102.csv` file is present in the path: `gcs-exe/KTU_SPACE_Ground_Control_Station_Data/CSVFile`.
+- The executable file is deleted from the repository but if you get build the project please ensure that the `Flight_2102.csv` file is present in the path: `gcs-exe/KTU_SPACE_Ground_Control_Station_Data/CSVFile`.
 
-- The source code of the ground station is available on [GitHub](https://github.com/rai-shi/KTU_SPACE-Ground-Control-Station).
+- The source code of the ground station is available on [GitHub](https://github.com/rai-shi/KTU_SPACE_Ground_Control_Station).
 
 ## Ground Station Application Overview
 
